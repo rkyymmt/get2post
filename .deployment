@@ -1,0 +1,3 @@
+[config]
+command = cp %DEPLOYMENT_SOURCE%/jenkins.war %DEPLOYMENT_TARGET%/webapps/jenkins.war
+
